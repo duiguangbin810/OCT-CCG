@@ -1,0 +1,2402 @@
+[
+    {
+        "prompt": "1x airplane",
+        "class_counts": {
+            "airplane": 1
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "",
+        "seed": 726343,
+        "sample_idx": 1
+    },
+    {
+        "prompt": "6x dog; in a white room",
+        "class_counts": {
+            "dog": 6
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "in a white room",
+        "seed": 66919,
+        "sample_idx": 2
+    },
+    {
+        "prompt": "7x donut",
+        "class_counts": {
+            "donut": 7
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 839130,
+        "sample_idx": 3
+    },
+    {
+        "prompt": "2x cat; on green grass",
+        "class_counts": {
+            "cat": 2
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "on green grass",
+        "seed": 137949,
+        "sample_idx": 4
+    },
+    {
+        "prompt": "2x airplane; on the road",
+        "class_counts": {
+            "airplane": 2
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on the road",
+        "seed": 467859,
+        "sample_idx": 5
+    },
+    {
+        "prompt": "4x dog",
+        "class_counts": {
+            "dog": 4
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 277859,
+        "sample_idx": 6
+    },
+    {
+        "prompt": "8x cat",
+        "class_counts": {
+            "cat": 8
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 501646,
+        "sample_idx": 7
+    },
+    {
+        "prompt": "1x dog; on the road",
+        "class_counts": {
+            "dog": 1
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on the road",
+        "seed": 588200,
+        "sample_idx": 8
+    },
+    {
+        "prompt": "6x donut; on the road",
+        "class_counts": {
+            "donut": 6
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on the road",
+        "seed": 813868,
+        "sample_idx": 9
+    },
+    {
+        "prompt": "2x bird; on the road",
+        "class_counts": {
+            "bird": 2
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on the road",
+        "seed": 278865,
+        "sample_idx": 10
+    },
+    {
+        "prompt": "7x cup",
+        "class_counts": {
+            "cup": 7
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 102013,
+        "sample_idx": 11
+    },
+    {
+        "prompt": "3x cat",
+        "class_counts": {
+            "cat": 3
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 554346,
+        "sample_idx": 12
+    },
+    {
+        "prompt": "7x airplane; on green grass",
+        "class_counts": {
+            "airplane": 7
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on green grass",
+        "seed": 199235,
+        "sample_idx": 13
+    },
+    {
+        "prompt": "5x cat",
+        "class_counts": {
+            "cat": 5
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 294724,
+        "sample_idx": 14
+    },
+    {
+        "prompt": "3x cat",
+        "class_counts": {
+            "cat": 3
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 952564,
+        "sample_idx": 15
+    },
+    {
+        "prompt": "4x bird; on the road",
+        "class_counts": {
+            "bird": 4
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on the road",
+        "seed": 970064,
+        "sample_idx": 16
+    },
+    {
+        "prompt": "7x car; in a white room",
+        "class_counts": {
+            "car": 7
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "in a white room",
+        "seed": 904595,
+        "sample_idx": 17
+    },
+    {
+        "prompt": "1x cat",
+        "class_counts": {
+            "cat": 1
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 602010,
+        "sample_idx": 18
+    },
+    {
+        "prompt": "6x dog; in a white room",
+        "class_counts": {
+            "dog": 6
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "in a white room",
+        "seed": 592178,
+        "sample_idx": 19
+    },
+    {
+        "prompt": "7x bird",
+        "class_counts": {
+            "bird": 7
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 456261,
+        "sample_idx": 20
+    },
+    {
+        "prompt": "4x donut; on the road",
+        "class_counts": {
+            "donut": 4
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on the road",
+        "seed": 512871,
+        "sample_idx": 21
+    },
+    {
+        "prompt": "8x dog",
+        "class_counts": {
+            "dog": 8
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 840463,
+        "sample_idx": 22
+    },
+    {
+        "prompt": "5x donut",
+        "class_counts": {
+            "donut": 5
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 811977,
+        "sample_idx": 23
+    },
+    {
+        "prompt": "2x donut; on the road",
+        "class_counts": {
+            "donut": 2
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on the road",
+        "seed": 476872,
+        "sample_idx": 24
+    },
+    {
+        "prompt": "5x apple; on the road",
+        "class_counts": {
+            "apple": 5
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "on the road",
+        "seed": 413259,
+        "sample_idx": 25
+    },
+    {
+        "prompt": "8x cup",
+        "class_counts": {
+            "cup": 8
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 681259,
+        "sample_idx": 26
+    },
+    {
+        "prompt": "1x donut",
+        "class_counts": {
+            "donut": 1
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 445077,
+        "sample_idx": 27
+    },
+    {
+        "prompt": "1x dog; on a wooden desk",
+        "class_counts": {
+            "dog": 1
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on a wooden desk",
+        "seed": 582496,
+        "sample_idx": 28
+    },
+    {
+        "prompt": "5x donut; on the road",
+        "class_counts": {
+            "donut": 5
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on the road",
+        "seed": 634599,
+        "sample_idx": 29
+    },
+    {
+        "prompt": "6x cat; in a white room",
+        "class_counts": {
+            "cat": 6
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "in a white room",
+        "seed": 598807,
+        "sample_idx": 30
+    },
+    {
+        "prompt": "2x dog; on green grass",
+        "class_counts": {
+            "dog": 2
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on green grass",
+        "seed": 805502,
+        "sample_idx": 31
+    },
+    {
+        "prompt": "4x cat",
+        "class_counts": {
+            "cat": 4
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 769573,
+        "sample_idx": 32
+    },
+    {
+        "prompt": "5x car; on the road",
+        "class_counts": {
+            "car": 5
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "on the road",
+        "seed": 927349,
+        "sample_idx": 33
+    },
+    {
+        "prompt": "1x dog; on the road",
+        "class_counts": {
+            "dog": 1
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on the road",
+        "seed": 253648,
+        "sample_idx": 34
+    },
+    {
+        "prompt": "2x airplane; on green grass",
+        "class_counts": {
+            "airplane": 2
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on green grass",
+        "seed": 677758,
+        "sample_idx": 35
+    },
+    {
+        "prompt": "8x bird; on the road",
+        "class_counts": {
+            "bird": 8
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on the road",
+        "seed": 261396,
+        "sample_idx": 36
+    },
+    {
+        "prompt": "6x car",
+        "class_counts": {
+            "car": 6
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 841848,
+        "sample_idx": 37
+    },
+    {
+        "prompt": "3x donut",
+        "class_counts": {
+            "donut": 3
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 50217,
+        "sample_idx": 38
+    },
+    {
+        "prompt": "3x donut",
+        "class_counts": {
+            "donut": 3
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 67468,
+        "sample_idx": 39
+    },
+    {
+        "prompt": "5x dog; in a white room",
+        "class_counts": {
+            "dog": 5
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "in a white room",
+        "seed": 872693,
+        "sample_idx": 40
+    },
+    {
+        "prompt": "3x airplane; on a wooden desk",
+        "class_counts": {
+            "airplane": 3
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on a wooden desk",
+        "seed": 62037,
+        "sample_idx": 41
+    },
+    {
+        "prompt": "6x apple; in a white room",
+        "class_counts": {
+            "apple": 6
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "in a white room",
+        "seed": 846683,
+        "sample_idx": 42
+    },
+    {
+        "prompt": "5x cup",
+        "class_counts": {
+            "cup": 5
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 776215,
+        "sample_idx": 43
+    },
+    {
+        "prompt": "8x cat; on the road",
+        "class_counts": {
+            "cat": 8
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "on the road",
+        "seed": 822918,
+        "sample_idx": 44
+    },
+    {
+        "prompt": "2x bird; on the road",
+        "class_counts": {
+            "bird": 2
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on the road",
+        "seed": 226318,
+        "sample_idx": 45
+    },
+    {
+        "prompt": "4x airplane",
+        "class_counts": {
+            "airplane": 4
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "",
+        "seed": 29035,
+        "sample_idx": 46
+    },
+    {
+        "prompt": "6x car; on the road",
+        "class_counts": {
+            "car": 6
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "on the road",
+        "seed": 409885,
+        "sample_idx": 47
+    },
+    {
+        "prompt": "7x cat",
+        "class_counts": {
+            "cat": 7
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 66738,
+        "sample_idx": 48
+    },
+    {
+        "prompt": "5x donut",
+        "class_counts": {
+            "donut": 5
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 958063,
+        "sample_idx": 49
+    },
+    {
+        "prompt": "3x apple",
+        "class_counts": {
+            "apple": 3
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 497111,
+        "sample_idx": 50
+    },
+    {
+        "prompt": "8x donut",
+        "class_counts": {
+            "donut": 8
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 613283,
+        "sample_idx": 51
+    },
+    {
+        "prompt": "5x bird; on a wooden desk",
+        "class_counts": {
+            "bird": 5
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on a wooden desk",
+        "seed": 145731,
+        "sample_idx": 52
+    },
+    {
+        "prompt": "6x bird",
+        "class_counts": {
+            "bird": 6
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 416689,
+        "sample_idx": 53
+    },
+    {
+        "prompt": "4x car; on the road",
+        "class_counts": {
+            "car": 4
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "on the road",
+        "seed": 334038,
+        "sample_idx": 54
+    },
+    {
+        "prompt": "3x car",
+        "class_counts": {
+            "car": 3
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 404198,
+        "sample_idx": 55
+    },
+    {
+        "prompt": "4x cup; on the road",
+        "class_counts": {
+            "cup": 4
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on the road",
+        "seed": 774883,
+        "sample_idx": 56
+    },
+    {
+        "prompt": "7x cup; in a white room",
+        "class_counts": {
+            "cup": 7
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "in a white room",
+        "seed": 702425,
+        "sample_idx": 57
+    },
+    {
+        "prompt": "2x apple",
+        "class_counts": {
+            "apple": 2
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 861398,
+        "sample_idx": 58
+    },
+    {
+        "prompt": "5x bird; on a wooden desk",
+        "class_counts": {
+            "bird": 5
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on a wooden desk",
+        "seed": 523922,
+        "sample_idx": 59
+    },
+    {
+        "prompt": "1x cup; on green grass",
+        "class_counts": {
+            "cup": 1
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on green grass",
+        "seed": 756116,
+        "sample_idx": 60
+    },
+    {
+        "prompt": "7x airplane; on the road",
+        "class_counts": {
+            "airplane": 7
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on the road",
+        "seed": 65514,
+        "sample_idx": 61
+    },
+    {
+        "prompt": "3x donut; in a white room",
+        "class_counts": {
+            "donut": 3
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "in a white room",
+        "seed": 937933,
+        "sample_idx": 62
+    },
+    {
+        "prompt": "2x cup; on a wooden desk",
+        "class_counts": {
+            "cup": 2
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on a wooden desk",
+        "seed": 735769,
+        "sample_idx": 63
+    },
+    {
+        "prompt": "3x cup; on a wooden desk",
+        "class_counts": {
+            "cup": 3
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on a wooden desk",
+        "seed": 145259,
+        "sample_idx": 64
+    },
+    {
+        "prompt": "4x apple; on a wooden desk",
+        "class_counts": {
+            "apple": 4
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "on a wooden desk",
+        "seed": 205928,
+        "sample_idx": 65
+    },
+    {
+        "prompt": "5x dog; on the road",
+        "class_counts": {
+            "dog": 5
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on the road",
+        "seed": 722925,
+        "sample_idx": 66
+    },
+    {
+        "prompt": "4x apple",
+        "class_counts": {
+            "apple": 4
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 972174,
+        "sample_idx": 67
+    },
+    {
+        "prompt": "6x cup; on green grass",
+        "class_counts": {
+            "cup": 6
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on green grass",
+        "seed": 852256,
+        "sample_idx": 68
+    },
+    {
+        "prompt": "6x airplane",
+        "class_counts": {
+            "airplane": 6
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "",
+        "seed": 250082,
+        "sample_idx": 69
+    },
+    {
+        "prompt": "4x donut; on the road",
+        "class_counts": {
+            "donut": 4
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on the road",
+        "seed": 860888,
+        "sample_idx": 70
+    },
+    {
+        "prompt": "2x dog; on the road",
+        "class_counts": {
+            "dog": 2
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on the road",
+        "seed": 647800,
+        "sample_idx": 71
+    },
+    {
+        "prompt": "5x car",
+        "class_counts": {
+            "car": 5
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 309676,
+        "sample_idx": 72
+    },
+    {
+        "prompt": "8x dog; on green grass",
+        "class_counts": {
+            "dog": 8
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on green grass",
+        "seed": 876831,
+        "sample_idx": 73
+    },
+    {
+        "prompt": "4x apple",
+        "class_counts": {
+            "apple": 4
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 904726,
+        "sample_idx": 74
+    },
+    {
+        "prompt": "8x donut; on green grass",
+        "class_counts": {
+            "donut": 8
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on green grass",
+        "seed": 910576,
+        "sample_idx": 75
+    },
+    {
+        "prompt": "3x bird",
+        "class_counts": {
+            "bird": 3
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 604821,
+        "sample_idx": 76
+    },
+    {
+        "prompt": "5x apple",
+        "class_counts": {
+            "apple": 5
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 382839,
+        "sample_idx": 77
+    },
+    {
+        "prompt": "1x cup; on a wooden desk",
+        "class_counts": {
+            "cup": 1
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on a wooden desk",
+        "seed": 484324,
+        "sample_idx": 78
+    },
+    {
+        "prompt": "1x donut",
+        "class_counts": {
+            "donut": 1
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 842352,
+        "sample_idx": 79
+    },
+    {
+        "prompt": "4x cat; on green grass",
+        "class_counts": {
+            "cat": 4
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "on green grass",
+        "seed": 917422,
+        "sample_idx": 80
+    },
+    {
+        "prompt": "5x donut; on a wooden desk",
+        "class_counts": {
+            "donut": 5
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on a wooden desk",
+        "seed": 3946,
+        "sample_idx": 81
+    },
+    {
+        "prompt": "7x dog",
+        "class_counts": {
+            "dog": 7
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 935109,
+        "sample_idx": 82
+    },
+    {
+        "prompt": "1x cat",
+        "class_counts": {
+            "cat": 1
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 785145,
+        "sample_idx": 83
+    },
+    {
+        "prompt": "6x bird; in a white room",
+        "class_counts": {
+            "bird": 6
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "in a white room",
+        "seed": 994650,
+        "sample_idx": 84
+    },
+    {
+        "prompt": "4x dog",
+        "class_counts": {
+            "dog": 4
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 279593,
+        "sample_idx": 85
+    },
+    {
+        "prompt": "8x airplane",
+        "class_counts": {
+            "airplane": 8
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "",
+        "seed": 940431,
+        "sample_idx": 86
+    },
+    {
+        "prompt": "5x apple; on the road",
+        "class_counts": {
+            "apple": 5
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "on the road",
+        "seed": 191553,
+        "sample_idx": 87
+    },
+    {
+        "prompt": "8x car",
+        "class_counts": {
+            "car": 8
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 165011,
+        "sample_idx": 88
+    },
+    {
+        "prompt": "6x donut",
+        "class_counts": {
+            "donut": 6
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 275779,
+        "sample_idx": 89
+    },
+    {
+        "prompt": "5x cat",
+        "class_counts": {
+            "cat": 5
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 712108,
+        "sample_idx": 90
+    },
+    {
+        "prompt": "1x donut; on the road",
+        "class_counts": {
+            "donut": 1
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on the road",
+        "seed": 373070,
+        "sample_idx": 91
+    },
+    {
+        "prompt": "2x cup",
+        "class_counts": {
+            "cup": 2
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 434226,
+        "sample_idx": 92
+    },
+    {
+        "prompt": "3x bird",
+        "class_counts": {
+            "bird": 3
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 211817,
+        "sample_idx": 93
+    },
+    {
+        "prompt": "5x donut",
+        "class_counts": {
+            "donut": 5
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 485712,
+        "sample_idx": 94
+    },
+    {
+        "prompt": "4x cup",
+        "class_counts": {
+            "cup": 4
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 20554,
+        "sample_idx": 95
+    },
+    {
+        "prompt": "3x donut; on the road",
+        "class_counts": {
+            "donut": 3
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on the road",
+        "seed": 605402,
+        "sample_idx": 96
+    },
+    {
+        "prompt": "2x dog; in a white room",
+        "class_counts": {
+            "dog": 2
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "in a white room",
+        "seed": 405914,
+        "sample_idx": 97
+    },
+    {
+        "prompt": "1x cat",
+        "class_counts": {
+            "cat": 1
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 650421,
+        "sample_idx": 98
+    },
+    {
+        "prompt": "8x donut; on green grass",
+        "class_counts": {
+            "donut": 8
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on green grass",
+        "seed": 653481,
+        "sample_idx": 99
+    },
+    {
+        "prompt": "3x bird",
+        "class_counts": {
+            "bird": 3
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 432301,
+        "sample_idx": 100
+    },
+    {
+        "prompt": "8x dog; on green grass",
+        "class_counts": {
+            "dog": 8
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on green grass",
+        "seed": 82632,
+        "sample_idx": 101
+    },
+    {
+        "prompt": "1x dog",
+        "class_counts": {
+            "dog": 1
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 222589,
+        "sample_idx": 102
+    },
+    {
+        "prompt": "7x cup",
+        "class_counts": {
+            "cup": 7
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 951450,
+        "sample_idx": 103
+    },
+    {
+        "prompt": "6x apple; on green grass",
+        "class_counts": {
+            "apple": 6
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "on green grass",
+        "seed": 990844,
+        "sample_idx": 104
+    },
+    {
+        "prompt": "3x car",
+        "class_counts": {
+            "car": 3
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 613700,
+        "sample_idx": 105
+    },
+    {
+        "prompt": "8x bird",
+        "class_counts": {
+            "bird": 8
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 798648,
+        "sample_idx": 106
+    },
+    {
+        "prompt": "4x donut",
+        "class_counts": {
+            "donut": 4
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 232217,
+        "sample_idx": 107
+    },
+    {
+        "prompt": "4x car; in a white room",
+        "class_counts": {
+            "car": 4
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "in a white room",
+        "seed": 309283,
+        "sample_idx": 108
+    },
+    {
+        "prompt": "7x airplane; on the road",
+        "class_counts": {
+            "airplane": 7
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on the road",
+        "seed": 955080,
+        "sample_idx": 109
+    },
+    {
+        "prompt": "8x donut",
+        "class_counts": {
+            "donut": 8
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 697241,
+        "sample_idx": 110
+    },
+    {
+        "prompt": "6x car",
+        "class_counts": {
+            "car": 6
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 280798,
+        "sample_idx": 111
+    },
+    {
+        "prompt": "3x bird",
+        "class_counts": {
+            "bird": 3
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 99967,
+        "sample_idx": 112
+    },
+    {
+        "prompt": "2x dog",
+        "class_counts": {
+            "dog": 2
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 617963,
+        "sample_idx": 113
+    },
+    {
+        "prompt": "8x cup; on green grass",
+        "class_counts": {
+            "cup": 8
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on green grass",
+        "seed": 846099,
+        "sample_idx": 114
+    },
+    {
+        "prompt": "3x cup; in a white room",
+        "class_counts": {
+            "cup": 3
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "in a white room",
+        "seed": 145312,
+        "sample_idx": 115
+    },
+    {
+        "prompt": "7x apple; on green grass",
+        "class_counts": {
+            "apple": 7
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "on green grass",
+        "seed": 679501,
+        "sample_idx": 116
+    },
+    {
+        "prompt": "4x cat; on a wooden desk",
+        "class_counts": {
+            "cat": 4
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "on a wooden desk",
+        "seed": 986261,
+        "sample_idx": 117
+    },
+    {
+        "prompt": "6x donut",
+        "class_counts": {
+            "donut": 6
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 951250,
+        "sample_idx": 118
+    },
+    {
+        "prompt": "8x airplane; on the road",
+        "class_counts": {
+            "airplane": 8
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on the road",
+        "seed": 321857,
+        "sample_idx": 119
+    },
+    {
+        "prompt": "7x donut; on a wooden desk",
+        "class_counts": {
+            "donut": 7
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on a wooden desk",
+        "seed": 513743,
+        "sample_idx": 120
+    },
+    {
+        "prompt": "3x car; on the road",
+        "class_counts": {
+            "car": 3
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "on the road",
+        "seed": 741547,
+        "sample_idx": 121
+    },
+    {
+        "prompt": "7x donut",
+        "class_counts": {
+            "donut": 7
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 408763,
+        "sample_idx": 122
+    },
+    {
+        "prompt": "8x cat; on a wooden desk",
+        "class_counts": {
+            "cat": 8
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "on a wooden desk",
+        "seed": 559551,
+        "sample_idx": 123
+    },
+    {
+        "prompt": "2x bird; on a wooden desk",
+        "class_counts": {
+            "bird": 2
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on a wooden desk",
+        "seed": 426275,
+        "sample_idx": 124
+    },
+    {
+        "prompt": "5x apple",
+        "class_counts": {
+            "apple": 5
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 823164,
+        "sample_idx": 125
+    },
+    {
+        "prompt": "5x dog; on the road",
+        "class_counts": {
+            "dog": 5
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on the road",
+        "seed": 25338,
+        "sample_idx": 126
+    },
+    {
+        "prompt": "1x airplane",
+        "class_counts": {
+            "airplane": 1
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "",
+        "seed": 660991,
+        "sample_idx": 127
+    },
+    {
+        "prompt": "1x apple; on the road",
+        "class_counts": {
+            "apple": 1
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "on the road",
+        "seed": 214226,
+        "sample_idx": 128
+    },
+    {
+        "prompt": "2x bird; on a wooden desk",
+        "class_counts": {
+            "bird": 2
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on a wooden desk",
+        "seed": 202644,
+        "sample_idx": 129
+    },
+    {
+        "prompt": "3x airplane; on green grass",
+        "class_counts": {
+            "airplane": 3
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on green grass",
+        "seed": 15773,
+        "sample_idx": 130
+    },
+    {
+        "prompt": "3x cat",
+        "class_counts": {
+            "cat": 3
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 155788,
+        "sample_idx": 131
+    },
+    {
+        "prompt": "7x airplane; on green grass",
+        "class_counts": {
+            "airplane": 7
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on green grass",
+        "seed": 82747,
+        "sample_idx": 132
+    },
+    {
+        "prompt": "2x bird",
+        "class_counts": {
+            "bird": 2
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 547828,
+        "sample_idx": 133
+    },
+    {
+        "prompt": "3x airplane; on a wooden desk",
+        "class_counts": {
+            "airplane": 3
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on a wooden desk",
+        "seed": 548507,
+        "sample_idx": 134
+    },
+    {
+        "prompt": "7x airplane; in a white room",
+        "class_counts": {
+            "airplane": 7
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "in a white room",
+        "seed": 796172,
+        "sample_idx": 135
+    },
+    {
+        "prompt": "8x donut",
+        "class_counts": {
+            "donut": 8
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 955842,
+        "sample_idx": 136
+    },
+    {
+        "prompt": "4x airplane; on green grass",
+        "class_counts": {
+            "airplane": 4
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on green grass",
+        "seed": 620012,
+        "sample_idx": 137
+    },
+    {
+        "prompt": "6x car",
+        "class_counts": {
+            "car": 6
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 929062,
+        "sample_idx": 138
+    },
+    {
+        "prompt": "3x cat; on a wooden desk",
+        "class_counts": {
+            "cat": 3
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "on a wooden desk",
+        "seed": 59970,
+        "sample_idx": 139
+    },
+    {
+        "prompt": "6x apple; in a white room",
+        "class_counts": {
+            "apple": 6
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "in a white room",
+        "seed": 587095,
+        "sample_idx": 140
+    },
+    {
+        "prompt": "4x cup; on the road",
+        "class_counts": {
+            "cup": 4
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on the road",
+        "seed": 441750,
+        "sample_idx": 141
+    },
+    {
+        "prompt": "3x car",
+        "class_counts": {
+            "car": 3
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 604527,
+        "sample_idx": 142
+    },
+    {
+        "prompt": "6x cup; on green grass",
+        "class_counts": {
+            "cup": 6
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on green grass",
+        "seed": 9644,
+        "sample_idx": 143
+    },
+    {
+        "prompt": "2x dog",
+        "class_counts": {
+            "dog": 2
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 508871,
+        "sample_idx": 144
+    },
+    {
+        "prompt": "2x airplane",
+        "class_counts": {
+            "airplane": 2
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "",
+        "seed": 134960,
+        "sample_idx": 145
+    },
+    {
+        "prompt": "8x donut",
+        "class_counts": {
+            "donut": 8
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 916605,
+        "sample_idx": 146
+    },
+    {
+        "prompt": "7x airplane; in a white room",
+        "class_counts": {
+            "airplane": 7
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "in a white room",
+        "seed": 674043,
+        "sample_idx": 147
+    },
+    {
+        "prompt": "5x airplane; in a white room",
+        "class_counts": {
+            "airplane": 5
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "in a white room",
+        "seed": 551585,
+        "sample_idx": 148
+    },
+    {
+        "prompt": "1x car",
+        "class_counts": {
+            "car": 1
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 177747,
+        "sample_idx": 149
+    },
+    {
+        "prompt": "3x apple; on green grass",
+        "class_counts": {
+            "apple": 3
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "on green grass",
+        "seed": 23655,
+        "sample_idx": 150
+    },
+    {
+        "prompt": "4x cat",
+        "class_counts": {
+            "cat": 4
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 247202,
+        "sample_idx": 151
+    },
+    {
+        "prompt": "2x donut; in a white room",
+        "class_counts": {
+            "donut": 2
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "in a white room",
+        "seed": 187884,
+        "sample_idx": 152
+    },
+    {
+        "prompt": "5x car",
+        "class_counts": {
+            "car": 5
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 429109,
+        "sample_idx": 153
+    },
+    {
+        "prompt": "7x cat",
+        "class_counts": {
+            "cat": 7
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 533813,
+        "sample_idx": 154
+    },
+    {
+        "prompt": "7x dog; on a wooden desk",
+        "class_counts": {
+            "dog": 7
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on a wooden desk",
+        "seed": 820939,
+        "sample_idx": 155
+    },
+    {
+        "prompt": "5x airplane",
+        "class_counts": {
+            "airplane": 5
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "",
+        "seed": 580823,
+        "sample_idx": 156
+    },
+    {
+        "prompt": "7x cat",
+        "class_counts": {
+            "cat": 7
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 673459,
+        "sample_idx": 157
+    },
+    {
+        "prompt": "8x apple; on green grass",
+        "class_counts": {
+            "apple": 8
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "on green grass",
+        "seed": 168951,
+        "sample_idx": 158
+    },
+    {
+        "prompt": "1x cup; on a wooden desk",
+        "class_counts": {
+            "cup": 1
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on a wooden desk",
+        "seed": 681698,
+        "sample_idx": 159
+    },
+    {
+        "prompt": "3x bird",
+        "class_counts": {
+            "bird": 3
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 712556,
+        "sample_idx": 160
+    },
+    {
+        "prompt": "3x apple",
+        "class_counts": {
+            "apple": 3
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 976705,
+        "sample_idx": 161
+    },
+    {
+        "prompt": "1x car; on green grass",
+        "class_counts": {
+            "car": 1
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "on green grass",
+        "seed": 254919,
+        "sample_idx": 162
+    },
+    {
+        "prompt": "5x cup; on green grass",
+        "class_counts": {
+            "cup": 5
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on green grass",
+        "seed": 324328,
+        "sample_idx": 163
+    },
+    {
+        "prompt": "2x dog; on a wooden desk",
+        "class_counts": {
+            "dog": 2
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on a wooden desk",
+        "seed": 627503,
+        "sample_idx": 164
+    },
+    {
+        "prompt": "7x donut; on green grass",
+        "class_counts": {
+            "donut": 7
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "on green grass",
+        "seed": 374465,
+        "sample_idx": 165
+    },
+    {
+        "prompt": "4x cat; on the road",
+        "class_counts": {
+            "cat": 4
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "on the road",
+        "seed": 522851,
+        "sample_idx": 166
+    },
+    {
+        "prompt": "8x bird",
+        "class_counts": {
+            "bird": 8
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 331930,
+        "sample_idx": 167
+    },
+    {
+        "prompt": "4x cat",
+        "class_counts": {
+            "cat": 4
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 820899,
+        "sample_idx": 168
+    },
+    {
+        "prompt": "3x airplane; on the road",
+        "class_counts": {
+            "airplane": 3
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on the road",
+        "seed": 112775,
+        "sample_idx": 169
+    },
+    {
+        "prompt": "2x car; on the road",
+        "class_counts": {
+            "car": 2
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "on the road",
+        "seed": 242975,
+        "sample_idx": 170
+    },
+    {
+        "prompt": "3x car",
+        "class_counts": {
+            "car": 3
+        },
+        "coco_object_ids": {
+            "car": 2
+        },
+        "scene": "",
+        "seed": 586978,
+        "sample_idx": 171
+    },
+    {
+        "prompt": "3x bird; on the road",
+        "class_counts": {
+            "bird": 3
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on the road",
+        "seed": 972327,
+        "sample_idx": 172
+    },
+    {
+        "prompt": "6x cat",
+        "class_counts": {
+            "cat": 6
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 858813,
+        "sample_idx": 173
+    },
+    {
+        "prompt": "5x apple",
+        "class_counts": {
+            "apple": 5
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 952910,
+        "sample_idx": 174
+    },
+    {
+        "prompt": "6x apple",
+        "class_counts": {
+            "apple": 6
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 465683,
+        "sample_idx": 175
+    },
+    {
+        "prompt": "3x dog",
+        "class_counts": {
+            "dog": 3
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 547098,
+        "sample_idx": 176
+    },
+    {
+        "prompt": "6x dog; in a white room",
+        "class_counts": {
+            "dog": 6
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "in a white room",
+        "seed": 937481,
+        "sample_idx": 177
+    },
+    {
+        "prompt": "8x cup; on a wooden desk",
+        "class_counts": {
+            "cup": 8
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "on a wooden desk",
+        "seed": 39048,
+        "sample_idx": 178
+    },
+    {
+        "prompt": "2x airplane; on the road",
+        "class_counts": {
+            "airplane": 2
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "on the road",
+        "seed": 317458,
+        "sample_idx": 179
+    },
+    {
+        "prompt": "8x cup",
+        "class_counts": {
+            "cup": 8
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 340030,
+        "sample_idx": 180
+    },
+    {
+        "prompt": "7x cat; on green grass",
+        "class_counts": {
+            "cat": 7
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "on green grass",
+        "seed": 784988,
+        "sample_idx": 181
+    },
+    {
+        "prompt": "5x bird; on the road",
+        "class_counts": {
+            "bird": 5
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "on the road",
+        "seed": 783197,
+        "sample_idx": 182
+    },
+    {
+        "prompt": "7x cat",
+        "class_counts": {
+            "cat": 7
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "",
+        "seed": 60494,
+        "sample_idx": 183
+    },
+    {
+        "prompt": "7x apple",
+        "class_counts": {
+            "apple": 7
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 451327,
+        "sample_idx": 184
+    },
+    {
+        "prompt": "5x cup",
+        "class_counts": {
+            "cup": 5
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 49441,
+        "sample_idx": 185
+    },
+    {
+        "prompt": "6x airplane",
+        "class_counts": {
+            "airplane": 6
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "",
+        "seed": 803822,
+        "sample_idx": 186
+    },
+    {
+        "prompt": "2x cup",
+        "class_counts": {
+            "cup": 2
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 812619,
+        "sample_idx": 187
+    },
+    {
+        "prompt": "8x airplane",
+        "class_counts": {
+            "airplane": 8
+        },
+        "coco_object_ids": {
+            "airplane": 4
+        },
+        "scene": "",
+        "seed": 461676,
+        "sample_idx": 188
+    },
+    {
+        "prompt": "6x donut",
+        "class_counts": {
+            "donut": 6
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "",
+        "seed": 239013,
+        "sample_idx": 189
+    },
+    {
+        "prompt": "3x donut; in a white room",
+        "class_counts": {
+            "donut": 3
+        },
+        "coco_object_ids": {
+            "donut": 54
+        },
+        "scene": "in a white room",
+        "seed": 709139,
+        "sample_idx": 190
+    },
+    {
+        "prompt": "3x dog",
+        "class_counts": {
+            "dog": 3
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 283577,
+        "sample_idx": 191
+    },
+    {
+        "prompt": "1x dog; on the road",
+        "class_counts": {
+            "dog": 1
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "on the road",
+        "seed": 43061,
+        "sample_idx": 192
+    },
+    {
+        "prompt": "8x bird",
+        "class_counts": {
+            "bird": 8
+        },
+        "coco_object_ids": {
+            "bird": 14
+        },
+        "scene": "",
+        "seed": 491100,
+        "sample_idx": 193
+    },
+    {
+        "prompt": "1x dog",
+        "class_counts": {
+            "dog": 1
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 958489,
+        "sample_idx": 194
+    },
+    {
+        "prompt": "4x dog",
+        "class_counts": {
+            "dog": 4
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "",
+        "seed": 227404,
+        "sample_idx": 195
+    },
+    {
+        "prompt": "5x dog; in a white room",
+        "class_counts": {
+            "dog": 5
+        },
+        "coco_object_ids": {
+            "dog": 16
+        },
+        "scene": "in a white room",
+        "seed": 638666,
+        "sample_idx": 196
+    },
+    {
+        "prompt": "2x cat; in a white room",
+        "class_counts": {
+            "cat": 2
+        },
+        "coco_object_ids": {
+            "cat": 15
+        },
+        "scene": "in a white room",
+        "seed": 701178,
+        "sample_idx": 197
+    },
+    {
+        "prompt": "2x cup",
+        "class_counts": {
+            "cup": 2
+        },
+        "coco_object_ids": {
+            "cup": 41
+        },
+        "scene": "",
+        "seed": 934689,
+        "sample_idx": 198
+    },
+    {
+        "prompt": "1x apple; on green grass",
+        "class_counts": {
+            "apple": 1
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "on green grass",
+        "seed": 276304,
+        "sample_idx": 199
+    },
+    {
+        "prompt": "3x apple",
+        "class_counts": {
+            "apple": 3
+        },
+        "coco_object_ids": {
+            "apple": 47
+        },
+        "scene": "",
+        "seed": 997828,
+        "sample_idx": 200
+    }
+]

@@ -1,0 +1,14 @@
+torch==2.3.0
+torchvision==0.18.0
+torchaudio==2.3.0
+diffusers>=0.20
+transformers>=4.30
+accelerate
+safetensors
+einops
+kornia
+scipy
+scikit-image
+tqdm
+timm
+xformers

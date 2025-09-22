@@ -1,0 +1,14 @@
+model:
+  id: "stabilityai/stable-diffusion-xl-base-1.0"
+  device: "cuda" if torch.cuda.is_available() else "cpu"
+
+oct:
+  phase_scale: 1e-2
+  strict_orthogonal: false
+  subtoken_strategy: "average"
+
+counting:
+  temp: 0.05
+  theta: 0.01
+  gamma: 1e-2
+  agg_mode: "sum"
