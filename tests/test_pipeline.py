@@ -23,7 +23,7 @@ def test_run():
         prompt,
         height=512,
         width=512,
-        num_inference_steps=20,  # 减少步数加快速度
+        num_inference_steps=20,  # 减少步数加快速度 最新修改版本
         guidance_scale=7.5,
         num_images_per_prompt=1  # 一次只生成1张
     ).images[0]
