@@ -18,14 +18,14 @@ def test_run():
     pipe = pipe.to("cpu")
     
     # 优化4：添加生成参数控制，减少内存使用
-    prompt = "a cute cat"
+    prompt = "a cat"
     image = pipe(
         prompt,
         height=512,
         width=512,
         num_inference_steps=20,  # 减少步数加快速度
         guidance_scale=7.5,
-        num_images_per_prompt=1  # 一次只生成1张啊
+        num_images_per_prompt=1  # 一次只生成1张
     ).images[0]
 
     output_dir = "d:/projects/OCT-CCG/outputs"
