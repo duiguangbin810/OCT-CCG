@@ -18,7 +18,7 @@ def test_run():
     pipe = pipe.to("cpu")
     
     # 优化4：添加生成参数控制，减少内存使用
-    prompt = "a cat"
+    prompt = "a cute cat"
     image = pipe(
         prompt,
         height=512,
